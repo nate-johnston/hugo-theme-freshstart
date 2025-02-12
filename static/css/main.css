@@ -10,7 +10,7 @@
 
 body {
   background: url(../images/bg.webp) top fixed no-repeat;
-  background-size: auto 100%;
+  background-size: 100vw 100vh;
   content-visibility: auto;
   font-size: 16px;
   font-family: system-ui, sans-serif;
